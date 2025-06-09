@@ -1,9 +1,4 @@
 
-
-
-//Name: Hetarth Parikh
-//Unit,Lesson,Name of Assignment: Unit 1 Lesson 8, Sleep Timer Assignment
-//Date of Completion: September 16th 2024
 //Description: This is a program of a sleep timer which tells you approxiametly 
 // how many hours you have slept through the day you were born till now
 
